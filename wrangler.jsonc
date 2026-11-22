@@ -1,3 +1,4 @@
+// Workers Builds: build with `npm run build`, deploy dist/worker.js via wrangler.
 {
   "name": "bpb",
   "main": "dist/worker.js",
