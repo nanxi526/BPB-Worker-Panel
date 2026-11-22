@@ -1,0 +1,13 @@
+{
+  "name": "bpb",
+  "main": "dist/worker.js",
+  "compatibility_date": "2025-11-22",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "kv_namespaces": [
+    {
+      "binding": "bpb",
+      "id": "5ef148705f4c49e1a9cf6ae6efb3ea04"
+    }
+  ]
+}
